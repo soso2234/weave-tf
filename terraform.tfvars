@@ -1,0 +1,5 @@
+pjt_name = "seoul"
+instance_type = "t3.small"
+ami_id        = "ami-03fd85ef2fae79c05"
+db_password = "weaveadmin"
+public_key    = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCR/ABa2bfH5GC8aUvPSF1fBEWL8a8C1oL3B3Q88g/wyo6uDpMLKYTxZ2vJAxrI2tqk+TKGkT/TmgyYPGMqgxCG9/13OPObTEjBWG6DDkXsmYAHvf61o37Hjl3wLPRCTblteJWnzkfObJ+yPbcZYLgxtsvE5Lcci8K8Zsqlcbji7xdvjB32qSf/uwgXUXTo++/6Gxh/aWkdeAXK2uUDRFD0KmAReevuRWf2gbIKIra6BT5VeMaIR9mTLzKh5EK0fmmEgRgPzsZpqjnyeP0KpCNHob5mJPMqtChAld48RvsKemIBsJ4X3KZxDiHexdZ6ge2UTDOFQDLaVohdp4v/bzx1 rsa-key-20260114"
